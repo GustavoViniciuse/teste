@@ -43,7 +43,7 @@ Siga estes passos para configurar e executar a aplicação:
 
 5.  Adicione sua chave da Deepgram no arquivo `.env`. Você pode obtê-la na seção de perfil da sua conta.
     ```env
-    ELEVENLABS_API_KEY=sua_chave_aqui
+    DEEPGRAM_API_KEY=sua_chave_aqui
     ```
 
 ### 🏃 Execução
