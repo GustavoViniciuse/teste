@@ -22,7 +22,7 @@ Siga estes passos para configurar e executar a aplicação:
 
 1.  Clone o repositório para o seu computador:
     ```bash
-    git clone [URL_DO_SEU_REPOSITÓRIO]
+    git clone [https://github.com/GustavoViniciuse/teste]
     cd teste
     ```
 
