@@ -7,7 +7,7 @@ A solução foi desenvolvida com foco em **boas práticas**, **organização de 
 
 ## ✨ Demonstração do Projeto
 
-![Screenshot da Aplicação](imgGit/Captura de tela 2025-08-22 134252.png)
+![Screenshot da Aplicação](imgGit/screenshot-app.png)
 
 ## 🚀 Requisitos e Instalação
 
