@@ -53,6 +53,6 @@ Para iniciar o servidor de desenvolvimento do Laravel, execute o comando:
 ```bash
 php artisan serve
 
-
+```
 ### Autor:
 Gustavo Vinicius Elias Souza Silva
